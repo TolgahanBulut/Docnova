@@ -70,13 +70,13 @@ const Layout = ({ children }) => {
           <a href="https://twitter.com/melasoft" target="_blank" rel="noopener noreferrer">
             <TwitterOutlined style={{ fontSize: '24px', color: '#1890ff' }} />
           </a>
-          <a href="https://youtube.com/melasoft" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.youtube.com/channel/UCIbksG9EjEUh_uWW8tBzy9w" target="_blank" rel="noopener noreferrer">
             <YoutubeOutlined style={{ fontSize: '24px', color: '#1890ff' }} />
           </a>
           <a href="https://linkedin.com/company/melasoft" target="_blank" rel="noopener noreferrer">
             <LinkedinOutlined style={{ fontSize: '24px', color: '#1890ff' }} />
           </a>
-          <a href="https://instagram.com/melasoft" target="_blank" rel="noopener noreferrer">
+          <a href="https://instagram.com/melasoftgmbh" target="_blank" rel="noopener noreferrer">
             <InstagramOutlined style={{ fontSize: '24px', color: '#1890ff' }} />
           </a>
         </div>
